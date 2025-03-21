@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Lucía Martín
+# Hello! 👋 I'm Lucía
 
 ## 🚀 Full Stack Developer
 
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 - **Tech Stack**: Python  
 - Created a fun and interactive Tamagotchi-style game with a focus on object-oriented programming.
 
-#### 5. **Fisioterapia Axarquía Website**  
+#### 5. **Centro Axarquia Webiste**  
 - **Tech Stack**: HTML, CSS, JavaScript, Bootstrap  
 - Designed and developed a responsive website for a physiotherapy center: [www.centroaxarquia.com](https://www.centroaxarquia.com)
 
@@ -88,7 +88,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucía-martín-guijarro-697ab792)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucía-martín-guijarro-697ab792)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lmguijarro92@gmail.com)
 
 ---
