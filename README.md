@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 
 ### 💼 Professional Experience
 
-#### Junior Software Developer at [Nucleoo](https://www.nucleoo.com/) (Jun 2025 – Present)
+#### Junior Software Developer at [Nucleoo](https://www.nucleoo.com/) (Apr 2025 – Present)
 - Working in an **agile team with Scrum methodologies and Jira**.  
 - Daily development with **Python**, **Angular**, **PostgreSQL**, and **REST APIs**.  
 - Automated testing with **Cypress** and **Pytest**.  
